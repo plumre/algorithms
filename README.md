@@ -1,2 +1,2 @@
 # algorithms
-2018 study &amp; practice on Algoriithms
+2018 study &amp; practice on Algorithms
